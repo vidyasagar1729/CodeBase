@@ -1,4 +1,4 @@
 CodeBase
 ========
 
-Code Base for all language leaniing Codes
+Code Base for all language leanrning Codes
